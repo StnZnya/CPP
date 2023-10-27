@@ -1,37 +1,3 @@
-// #include <iostream>
-// #include <string>
-// #include <cmath> 
-// using namespace std;
-
-//   int main(){
-        
-//     int n , k;
-//     int l;
-//     cout << "Enter N Value which is positive 3-digit number: ";   
-//     cin >> n;    
-        
-//     if (n < 100 || n > 999){ 
-
-//    cout << "This number is not a positive 3-digit number";
-
-//         }
-//       else{
-//         while (n != 0)
-//         {
-//           k % 10;    
-//           // if (k %= 2){cout << k;}
-//           cout << k << " ";
-//           n = n / 10;
-//         }
-//     };   
-    
-//     //     (l / 2)* 2 == k;
-//     // cout << l << "";
-       
-//         return 0;
-//   }
-
-
 #include <iostream>
 using namespace std;
 
